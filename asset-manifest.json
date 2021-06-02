@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/ReactJS-QuizGame/static/css/main.9d5b29c0.chunk.css",
-    "main.js": "/ReactJS-QuizGame/static/js/main.b7ada100.chunk.js",
-    "main.js.map": "/ReactJS-QuizGame/static/js/main.b7ada100.chunk.js.map",
-    "runtime-main.js": "/ReactJS-QuizGame/static/js/runtime-main.950f4b5f.js",
-    "runtime-main.js.map": "/ReactJS-QuizGame/static/js/runtime-main.950f4b5f.js.map",
-    "static/js/2.ac008c59.chunk.js": "/ReactJS-QuizGame/static/js/2.ac008c59.chunk.js",
-    "static/js/2.ac008c59.chunk.js.map": "/ReactJS-QuizGame/static/js/2.ac008c59.chunk.js.map",
-    "static/js/3.3691bc58.chunk.js": "/ReactJS-QuizGame/static/js/3.3691bc58.chunk.js",
-    "static/js/3.3691bc58.chunk.js.map": "/ReactJS-QuizGame/static/js/3.3691bc58.chunk.js.map",
+    "main.css": "/ReactJS-QuizGame/static/css/main.21d3dd4a.chunk.css",
+    "main.js": "/ReactJS-QuizGame/static/js/main.d71c1b91.chunk.js",
+    "main.js.map": "/ReactJS-QuizGame/static/js/main.d71c1b91.chunk.js.map",
+    "runtime-main.js": "/ReactJS-QuizGame/static/js/runtime-main.d976d966.js",
+    "runtime-main.js.map": "/ReactJS-QuizGame/static/js/runtime-main.d976d966.js.map",
+    "static/js/2.d8fa8674.chunk.js": "/ReactJS-QuizGame/static/js/2.d8fa8674.chunk.js",
+    "static/js/2.d8fa8674.chunk.js.map": "/ReactJS-QuizGame/static/js/2.d8fa8674.chunk.js.map",
+    "static/js/3.883076a4.chunk.js": "/ReactJS-QuizGame/static/js/3.883076a4.chunk.js",
+    "static/js/3.883076a4.chunk.js.map": "/ReactJS-QuizGame/static/js/3.883076a4.chunk.js.map",
     "index.html": "/ReactJS-QuizGame/index.html",
-    "static/css/main.9d5b29c0.chunk.css.map": "/ReactJS-QuizGame/static/css/main.9d5b29c0.chunk.css.map",
-    "static/js/2.ac008c59.chunk.js.LICENSE.txt": "/ReactJS-QuizGame/static/js/2.ac008c59.chunk.js.LICENSE.txt",
+    "static/css/main.21d3dd4a.chunk.css.map": "/ReactJS-QuizGame/static/css/main.21d3dd4a.chunk.css.map",
+    "static/js/2.d8fa8674.chunk.js.LICENSE.txt": "/ReactJS-QuizGame/static/js/2.d8fa8674.chunk.js.LICENSE.txt",
     "static/media/logo.6ce24c58.svg": "/ReactJS-QuizGame/static/media/logo.6ce24c58.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.950f4b5f.js",
-    "static/js/2.ac008c59.chunk.js",
-    "static/css/main.9d5b29c0.chunk.css",
-    "static/js/main.b7ada100.chunk.js"
+    "static/js/runtime-main.d976d966.js",
+    "static/js/2.d8fa8674.chunk.js",
+    "static/css/main.21d3dd4a.chunk.css",
+    "static/js/main.d71c1b91.chunk.js"
   ]
 }
